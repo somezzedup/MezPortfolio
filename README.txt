@@ -1,3 +1,3 @@
-#Mez Portfolio
+##Mez Portfolio
 
 Link to my portfolio website: 
